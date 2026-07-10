@@ -1,0 +1,13 @@
+{
+  "activity": "Recruitment",
+  "description": "Laws relevant to hiring, employment terms, and onboarding.",
+  "sections": [
+    {
+      "code": "Industrial Relations Code, 2020",
+      "section_number": "2",
+      "title": "Definitions",
+      "path": "laws/industrial-relations-code/sections/section-1.md",
+      "relevance": "Defines 'worker', which determines who these laws apply to when hiring."
+    }
+  ]
+}
